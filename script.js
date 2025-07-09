@@ -25,7 +25,7 @@ document.getElementById('searchBar').addEventListener('input', function() {
 
 function displayLessons(lessons) {
     const lessonContainer = document.getElementById('lessonContainer');
-    lessonContainer.innerHTML = ''; // Clear previous results
+    lessonContainer.innerHTML = '';
 
     lessons.forEach(lesson => {
         const lessonCard = document.createElement('div');
