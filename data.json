@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Photosynthesis",
+        "description": "Learn about the process by which green plants and some other organisms use sunlight to synthesize foods.",
+        "content": "Photosynthesis is the process used by plants, algae, and some bacteria to convert light energy into chemical energy in the form of glucose..."
+    },
+    {
+        "title": "Cell Division",
+        "description": "An overview of the process of cell division, including mitosis and meiosis.",
+        "content": "Cell division is the process by which a parent cell divides into two or more daughter cells. It is a fundamental process for growth and reproduction..."
+    },
+    {
+        "title": "The Water Cycle",
+        "description": "Explore the continuous movement of water on, above, and below the surface of the Earth.",
+        "content": "The water cycle describes the continuous movement of water within the Earth and atmosphere. It involves processes such as evaporation, condensation, and precipitation..."
+    }
+]
